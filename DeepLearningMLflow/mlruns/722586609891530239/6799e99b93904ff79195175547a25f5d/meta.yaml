@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/suryasadasivam/DataScience%20/project/Mlflow/DeepLearningMLflow/mlruns/722586609891530239/6799e99b93904ff79195175547a25f5d/artifacts
+deleted_time: 1745495655629
+end_time: 1745492856618
+entry_point_name: ''
+experiment_id: '722586609891530239'
+lifecycle_stage: deleted
+run_id: 6799e99b93904ff79195175547a25f5d
+run_name: blushing-doe-479
+run_uuid: 6799e99b93904ff79195175547a25f5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745492856114
+status: 4
+tags: []
+user_id: suryasadasivam

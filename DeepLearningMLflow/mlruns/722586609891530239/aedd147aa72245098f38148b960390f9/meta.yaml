@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/suryasadasivam/DataScience%20/project/Mlflow/DeepLearningMLflow/mlruns/722586609891530239/aedd147aa72245098f38148b960390f9/artifacts
+deleted_time: 1745495664158
+end_time: 1745492913109
+entry_point_name: ''
+experiment_id: '722586609891530239'
+lifecycle_stage: deleted
+run_id: aedd147aa72245098f38148b960390f9
+run_name: bemused-crow-565
+run_uuid: aedd147aa72245098f38148b960390f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745492912787
+status: 4
+tags: []
+user_id: suryasadasivam

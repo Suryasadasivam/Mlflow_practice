@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/suryasadasivam/DataScience%20/project/Mlflow/DeepLearningMLflow/mlruns/722586609891530239/cb93dcdf7f694b569c577f0027726b07/artifacts
+deleted_time: 1745495686543
+end_time: 1745493049266
+entry_point_name: ''
+experiment_id: '722586609891530239'
+lifecycle_stage: deleted
+run_id: cb93dcdf7f694b569c577f0027726b07
+run_name: glamorous-stork-76
+run_uuid: cb93dcdf7f694b569c577f0027726b07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745493044878
+status: 3
+tags: []
+user_id: suryasadasivam

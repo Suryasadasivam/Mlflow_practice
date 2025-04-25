@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/suryasadasivam/DataScience%20/project/Mlflow/DeepLearningMLflow/mlruns/722586609891530239/a8585bc9898546c28ca5091637f355e5/artifacts
+deleted_time: 1745495682824
+end_time: 1745493059494
+entry_point_name: ''
+experiment_id: '722586609891530239'
+lifecycle_stage: deleted
+run_id: a8585bc9898546c28ca5091637f355e5
+run_name: magnificent-crab-375
+run_uuid: a8585bc9898546c28ca5091637f355e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745493056093
+status: 3
+tags: []
+user_id: suryasadasivam

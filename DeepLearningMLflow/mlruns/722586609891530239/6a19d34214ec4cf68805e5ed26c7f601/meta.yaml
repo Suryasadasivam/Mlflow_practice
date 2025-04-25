@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/suryasadasivam/DataScience%20/project/Mlflow/DeepLearningMLflow/mlruns/722586609891530239/6a19d34214ec4cf68805e5ed26c7f601/artifacts
+end_time: 1745493141995
+entry_point_name: ''
+experiment_id: '722586609891530239'
+lifecycle_stage: active
+run_id: 6a19d34214ec4cf68805e5ed26c7f601
+run_name: sincere-yak-721
+run_uuid: 6a19d34214ec4cf68805e5ed26c7f601
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745493138017
+status: 3
+tags: []
+user_id: suryasadasivam

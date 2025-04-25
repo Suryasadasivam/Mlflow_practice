@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/suryasadasivam/DataScience%20/project/Mlflow/DeepLearningMLflow/mlruns/722586609891530239/587d59dfb9cb4d188f40bfb95ca5759e/artifacts
+end_time: 1745493152165
+entry_point_name: ''
+experiment_id: '722586609891530239'
+lifecycle_stage: active
+run_id: 587d59dfb9cb4d188f40bfb95ca5759e
+run_name: zealous-koi-835
+run_uuid: 587d59dfb9cb4d188f40bfb95ca5759e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745493148788
+status: 3
+tags: []
+user_id: suryasadasivam

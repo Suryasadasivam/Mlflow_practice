@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/suryasadasivam/DataScience%20/project/Mlflow/DeepLearningMLflow/mlruns/722586609891530239/4541b7de676545e3bb659f2ad3829fcb/artifacts
+deleted_time: 1745495655629
+end_time: 1745492913110
+entry_point_name: ''
+experiment_id: '722586609891530239'
+lifecycle_stage: deleted
+run_id: 4541b7de676545e3bb659f2ad3829fcb
+run_name: nebulous-doe-327
+run_uuid: 4541b7de676545e3bb659f2ad3829fcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745492912769
+status: 4
+tags: []
+user_id: suryasadasivam

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/suryasadasivam/DataScience%20/project/Mlflow/DeepLearningMLflow/mlruns/722586609891530239/8f95ed431202445a8d845b49a2c52fb9/artifacts
+deleted_time: 1745495664158
+end_time: 1745492856617
+entry_point_name: ''
+experiment_id: '722586609891530239'
+lifecycle_stage: deleted
+run_id: 8f95ed431202445a8d845b49a2c52fb9
+run_name: rumbling-ape-983
+run_uuid: 8f95ed431202445a8d845b49a2c52fb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745492856172
+status: 4
+tags: []
+user_id: suryasadasivam

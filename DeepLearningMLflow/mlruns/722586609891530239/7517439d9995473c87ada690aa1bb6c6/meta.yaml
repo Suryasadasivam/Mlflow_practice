@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/suryasadasivam/DataScience%20/project/Mlflow/DeepLearningMLflow/mlruns/722586609891530239/7517439d9995473c87ada690aa1bb6c6/artifacts
+deleted_time: 1745495655629
+end_time: 1745492832982
+entry_point_name: ''
+experiment_id: '722586609891530239'
+lifecycle_stage: deleted
+run_id: 7517439d9995473c87ada690aa1bb6c6
+run_name: painted-shark-357
+run_uuid: 7517439d9995473c87ada690aa1bb6c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745492832977
+status: 4
+tags: []
+user_id: suryasadasivam
