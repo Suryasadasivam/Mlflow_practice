@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/55a79ac3bbd44701b4594ff4b5e5795f/artifacts
+end_time: 1745482941324
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55a79ac3bbd44701b4594ff4b5e5795f
+run_name: beautiful-dog-216
+run_uuid: 55a79ac3bbd44701b4594ff4b5e5795f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745482881781
+status: 4
+tags: []
+user_id: suryasadasivam

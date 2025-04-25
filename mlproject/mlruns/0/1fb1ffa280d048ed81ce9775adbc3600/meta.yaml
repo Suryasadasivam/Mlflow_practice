@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1fb1ffa280d048ed81ce9775adbc3600/artifacts
+end_time: 1745482845099
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1fb1ffa280d048ed81ce9775adbc3600
+run_name: agreeable-ant-147
+run_uuid: 1fb1ffa280d048ed81ce9775adbc3600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745482845096
+status: 4
+tags: []
+user_id: suryasadasivam

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/155b4141d9b548579585f618996135b3/artifacts
+end_time: 1745483188977
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 155b4141d9b548579585f618996135b3
+run_name: selective-gnu-625
+run_uuid: 155b4141d9b548579585f618996135b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745483131683
+status: 4
+tags: []
+user_id: suryasadasivam
